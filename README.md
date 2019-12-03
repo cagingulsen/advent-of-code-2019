@@ -21,4 +21,4 @@ I will try to finish Advent of Code 2019 using Python.
 Simple: from the project folder, go to directory of the day you want and run like in the following to see the answer:
     
     cd day1
-    python solutions.py
+    python solution.py
